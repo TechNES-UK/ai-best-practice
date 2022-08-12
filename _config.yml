@@ -1,1 +1,6 @@
-theme: jekyll-theme-slate
+remote_theme: mmistakes/minimal-mistakes
+name: ""
+title:
+plugins:
+  - jekyll-include-cache
+logo: "assets/images/twlogo5.png"
